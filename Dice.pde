@@ -13,7 +13,7 @@
       noStroke();
       fill(j * 2,i * 2,0);
       ellipse(i * 7,j * 7,10,10);
-      ellipse(i * 7,j * 7,10,10;
+      ellipse(i * 7,j * 7,10,10);
       }
     }
       //your code here
