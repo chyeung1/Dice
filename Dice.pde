@@ -8,12 +8,12 @@
   {
     background(0);
     //background
-    for(int i = 0; i < 255; i++){
-      for(int j = 0; j < 255; j++){
+    for(int i = 0; i < 150; i++){
+      for(int j = 0; j < 150; j++){
       noStroke();
-      fill(j,i,0);
-      ellipse(i * 4,j * 4,5,5);
-      ellipse(i * 4,j * 4,5,5);
+      fill(j * 2,i * 2,0);
+      ellipse(i * 7,j * 7,10,10);
+      ellipse(i * 7,j * 7,10,10;
       }
     }
       //your code here
